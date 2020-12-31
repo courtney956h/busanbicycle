@@ -1,0 +1,1048 @@
+{
+    "item1": [
+        {
+          "gugunNm": "부산광역시 강서구",
+          "startSpot": "과학산단로 입구",
+          "endSpot": "신명교",
+          "total": "6.9",
+          "gugunOnlyBike": "-",
+          "gugunWithWalk": "6.9",
+          "gugunBikeRoad": "-",
+          "checkDate": "2020-07-31"
+        },
+        {
+          "gugunNm": "부산광역시 강서구",
+          "startSpot": "미음산단로 입구",
+          "endSpot": "미음동1543-2",
+          "total": "10",
+          "gugunOnlyBike": "-",
+          "gugunWithWalk": "10",
+          "gugunBikeRoad": "-",
+          "checkDate": "2020-07-31"
+        },
+        {
+          "gugunNm": "부산광역시 강서구",
+          "startSpot": "대저수문",
+          "endSpot": "명지IC",
+          "total": "15.2",
+          "gugunOnlyBike": "-",
+          "gugunWithWalk": "15.2",
+          "gugunBikeRoad": "-",
+          "checkDate": "2020-07-31"
+        },
+        {
+          "gugunNm": "부산광역시 강서구",
+          "startSpot": "명지IC",
+          "endSpot": "강동동 부산시경계",
+          "total": "13.9",
+          "gugunOnlyBike": "-",
+          "gugunWithWalk": "13.9",
+          "gugunBikeRoad": "-",
+          "checkDate": "2020-07-31"
+        },
+        {
+          "gugunNm": "부산광역시 강서구",
+          "startSpot": "오션시티 입구",
+          "endSpot": "신호대교 입구",
+          "total": "3.74",
+          "gugunOnlyBike": "-",
+          "gugunWithWalk": "3.74",
+          "gugunBikeRoad": "-",
+          "checkDate": "2020-07-31"
+        },
+        {
+          "gugunNm": "부산광역시 강서구",
+          "startSpot": "공군부대 후문",
+          "endSpot": "평강삼거리",
+          "total": "1.72",
+          "gugunOnlyBike": "-",
+          "gugunWithWalk": "1.72",
+          "gugunBikeRoad": "-",
+          "checkDate": "2020-07-31"
+        },
+        {
+          "gugunNm": "부산광역시 강서구",
+          "startSpot": "신호하수처리장",
+          "endSpot": "녹송3호교",
+          "total": "4.11",
+          "gugunOnlyBike": "-",
+          "gugunWithWalk": "4.11",
+          "gugunBikeRoad": "-",
+          "checkDate": "2020-07-31"
+        },
+        {
+          "gugunNm": "부산광역시 강서구",
+          "startSpot": "신호대교",
+          "endSpot": "르노삼성로 접속부",
+          "total": "3.43",
+          "gugunOnlyBike": "-",
+          "gugunWithWalk": "3.43",
+          "gugunBikeRoad": "-",
+          "checkDate": "2020-07-31"
+        },
+        {
+          "gugunNm": "부산광역시 강서구",
+          "startSpot": "화전산업단지 내",
+          "endSpot": "화전산업단지 내",
+          "total": "20.53",
+          "gugunOnlyBike": "-",
+          "gugunWithWalk": "20.53",
+          "gugunBikeRoad": "-",
+          "checkDate": "2020-07-31"
+        },
+        {
+          "gugunNm": "부산광역시 강서구",
+          "startSpot": "서부산유통단지내",
+          "endSpot": "서부산유통단지내",
+          "total": "7.53",
+          "gugunOnlyBike": "-",
+          "gugunWithWalk": "7.53",
+          "gugunBikeRoad": "-",
+          "checkDate": "2020-07-31"
+        }
+    ],
+    "item2": [
+      {
+        "gugunNm": "부산광역시 사상구",
+        "startSpot": "북구경계",
+        "endSpot": "광장로2번길 17 맞은편",
+        "total": "4.15",
+        "gugunOnlyBike": "0",
+        "gugunWithWalk": "4.15",
+        "gugunBikeRoad": "0",
+        "checkDate": "2020-07-31"
+      },
+      {
+        "gugunNm": "부산광역시 사상구",
+        "startSpot": "낙동대로 994 맞은편",
+        "endSpot": "감전교차로",
+        "total": "0.47",
+        "gugunOnlyBike": "0",
+        "gugunWithWalk": "0.47",
+        "gugunBikeRoad": "0",
+        "checkDate": "2020-07-31"
+      },
+      {
+        "gugunNm": "부산광역시 사상구",
+        "startSpot": "사하구경계",
+        "endSpot": "감전교차로",
+        "total": "3.04",
+        "gugunOnlyBike": "0",
+        "gugunWithWalk": "3.04",
+        "gugunBikeRoad": "0",
+        "checkDate": "2020-07-31"
+      },
+      {
+        "gugunNm": "부산광역시 사상구",
+        "startSpot": "괘법교",
+        "endSpot": "사상지하철역",
+        "total": "0.7",
+        "gugunOnlyBike": "0.7",
+        "gugunWithWalk": "0",
+        "gugunBikeRoad": "0",
+        "checkDate": "2020-07-31"
+      },
+      {
+        "gugunNm": "부산광역시 사상구",
+        "startSpot": "사상구청",
+        "endSpot": "감전중천공영P",
+        "total": "1.06",
+        "gugunOnlyBike": "0",
+        "gugunWithWalk": "1.06",
+        "gugunBikeRoad": "0",
+        "checkDate": "2020-07-31"
+      },
+      {
+        "gugunNm": "부산광역시 사상구",
+        "startSpot": "사상구청교차로",
+        "endSpot": "낙동제방",
+        "total": "1.76",
+        "gugunOnlyBike": "0",
+        "gugunWithWalk": "1.76",
+        "gugunBikeRoad": "0",
+        "checkDate": "2020-07-31"
+      },
+      {
+        "gugunNm": "부산광역시 사상구",
+        "startSpot": "감전지하철역",
+        "endSpot": "사상구청교차로",
+        "total": "0.74",
+        "gugunOnlyBike": "0",
+        "gugunWithWalk": "0.74",
+        "gugunBikeRoad": "0",
+        "checkDate": "2020-07-31"
+      },
+      {
+        "gugunNm": "부산광역시 사상구",
+        "startSpot": "사상구청교차로",
+        "endSpot": "학장교차로방향",
+        "total": "0.25",
+        "gugunOnlyBike": "0",
+        "gugunWithWalk": "0.25",
+        "gugunBikeRoad": "0",
+        "checkDate": "2020-07-31"
+      },
+      {
+        "gugunNm": "부산광역시 사상구",
+        "startSpot": "학장교차로",
+        "endSpot": "사상구청교차로",
+        "total": "0.6",
+        "gugunOnlyBike": "0",
+        "gugunWithWalk": "0.6",
+        "gugunBikeRoad": "0",
+        "checkDate": "2020-07-31"
+      },
+      {
+        "gugunNm": "부산광역시 사상구",
+        "startSpot": "북구경계",
+        "endSpot": "사하구경계",
+        "total": "9.4",
+        "gugunOnlyBike": "9.4",
+        "gugunWithWalk": "0",
+        "gugunBikeRoad": "0",
+        "checkDate": "2020-07-31"
+      }
+    ],
+    "item3": [
+      {
+        "gugunNm": "부산광역시 사하구",
+        "startSpot": "신평동 582-2",
+        "endSpot": "신평동 69",
+        "total": "0.21",
+        "gugunOnlyBike": "0",
+        "gugunWithWalk": "0.21",
+        "gugunBikeRoad": "0",
+        "checkDate": "2020-07-31"
+      },
+      {
+        "gugunNm": "부산광역시 사하구",
+        "startSpot": "장림동 1038",
+        "endSpot": "신평동 642-1",
+        "total": "2.3",
+        "gugunOnlyBike": "0",
+        "gugunWithWalk": "2.3",
+        "gugunBikeRoad": "0",
+        "checkDate": "2020-07-31"
+      },
+      {
+        "gugunNm": "부산광역시 사하구",
+        "startSpot": "신평동 642-1",
+        "endSpot": "장림동 1038",
+        "total": "2.3",
+        "gugunOnlyBike": "0",
+        "gugunWithWalk": "2.3",
+        "gugunBikeRoad": "0",
+        "checkDate": "2020-07-31"
+      },
+      {
+        "gugunNm": "부산광역시 사하구",
+        "startSpot": "신평동 552",
+        "endSpot": "신평동 472",
+        "total": "0.93",
+        "gugunOnlyBike": "0",
+        "gugunWithWalk": "0.93",
+        "gugunBikeRoad": "0",
+        "checkDate": "2020-07-31"
+      },
+      {
+        "gugunNm": "부산광역시 사하구",
+        "startSpot": "신평동 452-5",
+        "endSpot": "신평동 667-1",
+        "total": "0.41",
+        "gugunOnlyBike": "0",
+        "gugunWithWalk": "0.41",
+        "gugunBikeRoad": "0",
+        "checkDate": "2020-07-31"
+      },
+      {
+        "gugunNm": "부산광역시 사하구",
+        "startSpot": "괴정동 431-1",
+        "endSpot": "괴정동 347-18",
+        "total": "1.11",
+        "gugunOnlyBike": "0",
+        "gugunWithWalk": "1.11",
+        "gugunBikeRoad": "0",
+        "checkDate": "2020-07-31"
+      },
+      {
+        "gugunNm": "부산광역시 사하구",
+        "startSpot": "신평동 500",
+        "endSpot": "신평동 503",
+        "total": "0.2",
+        "gugunOnlyBike": "0",
+        "gugunWithWalk": "0.2",
+        "gugunBikeRoad": "0",
+        "checkDate": "2020-07-31"
+      },
+      {
+        "gugunNm": "부산광역시 사하구",
+        "startSpot": "하단동1153-1,하굿둑강서경계",
+        "endSpot": "하단동888-18,하구둣교차로",
+        "total": "2",
+        "gugunOnlyBike": "2",
+        "gugunWithWalk": "0",
+        "gugunBikeRoad": "0",
+        "checkDate": "2020-07-31"
+      },
+      {
+        "gugunNm": "부산광역시 사하구",
+        "startSpot": "하단동1149-1",
+        "endSpot": "하단동 을숙도 유원지",
+        "total": "0.6",
+        "gugunOnlyBike": "0.6",
+        "gugunWithWalk": "0",
+        "gugunBikeRoad": "0",
+        "checkDate": "2020-07-31"
+      },
+      {
+        "gugunNm": "부산광역시 사하구",
+        "startSpot": "장림동1086,대일피혁",
+        "endSpot": "신평동651-9,신평역",
+        "total": "2.03",
+        "gugunOnlyBike": "2.03",
+        "gugunWithWalk": "0",
+        "gugunBikeRoad": "0",
+        "checkDate": "2020-07-31"
+      }
+    ],
+    "item4": [
+      {
+        "gugunNm": "부산광역시 북구",
+        "startSpot": "화명동 2315-9(도시철도(수정역)",
+        "endSpot": "구포동 166\n(덕천교차로-구포시장)",
+        "total": "1.5",
+        "gugunOnlyBike": "-",
+        "gugunWithWalk": "1.5",
+        "gugunBikeRoad": "-",
+        "checkDate": "2020-07-31"
+      },
+      {
+        "gugunNm": "부산광역시 북구",
+        "startSpot": "대동화명대교 중간지점(강서구 경계)",
+        "endSpot": "화명IC(램프F) 일원",
+        "total": "1.159",
+        "gugunOnlyBike": "-",
+        "gugunWithWalk": "1.159",
+        "gugunBikeRoad": "-",
+        "checkDate": "2020-07-31"
+      },
+      {
+        "gugunNm": "부산광역시 북구",
+        "startSpot": "금곡동 1885(화명리버빌205동)",
+        "endSpot": "금곡동 1898\n(화명인재유치원)",
+        "total": "0.58",
+        "gugunOnlyBike": "-",
+        "gugunWithWalk": "0.58",
+        "gugunBikeRoad": "-",
+        "checkDate": "2020-07-31"
+      },
+      {
+        "gugunNm": "부산광역시 북구",
+        "startSpot": "양산시경계",
+        "endSpot": "사상구경계",
+        "total": "10.79",
+        "gugunOnlyBike": "10.79",
+        "gugunWithWalk": "-",
+        "gugunBikeRoad": "-",
+        "checkDate": "2020-07-31"
+      },
+      {
+        "gugunNm": "부산광역시 북구",
+        "startSpot": "금곡동 473(금곡 꽃박물관)",
+        "endSpot": "금곡동 1874-3\n(농협 하나로 마트)",
+        "total": "2.9",
+        "gugunOnlyBike": "-",
+        "gugunWithWalk": "2.9",
+        "gugunBikeRoad": "-",
+        "checkDate": "2020-07-31"
+      },
+      {
+        "gugunNm": "부산광역시 북구",
+        "startSpot": "금곡동 1882(율리마을주공 301동)",
+        "endSpot": "화명동 2306\n(대림쌍용아파트 706동)",
+        "total": "2.34",
+        "gugunOnlyBike": "-",
+        "gugunWithWalk": "2.34",
+        "gugunBikeRoad": "-",
+        "checkDate": "2020-07-31"
+      },
+      {
+        "gugunNm": "부산광역시 북구",
+        "startSpot": "금곡동 1882(율리마을주공 301동)",
+        "endSpot": "화명동 2318\n(한국방송통신대)",
+        "total": "2.85",
+        "gugunOnlyBike": "-",
+        "gugunWithWalk": "2.85",
+        "gugunBikeRoad": "-",
+        "checkDate": "2020-07-31"
+      },
+      {
+        "gugunNm": "부산광역시 북구",
+        "startSpot": "화명동 2264(롯데낙천대아파트 101동)",
+        "endSpot": "화명동 2315-9\n(도시철도 수정역)",
+        "total": "2.15",
+        "gugunOnlyBike": "-",
+        "gugunWithWalk": "2.15",
+        "gugunBikeRoad": "-",
+        "checkDate": "2020-07-31"
+      },
+      {
+        "gugunNm": "부산광역시 북구",
+        "startSpot": "화명동 188(벽산블루밍아파트 105동)",
+        "endSpot": "화명동 2324\n(롯데캐슬카이저 106동)",
+        "total": "2.75",
+        "gugunOnlyBike": "-",
+        "gugunWithWalk": "2.75",
+        "gugunBikeRoad": "-",
+        "checkDate": "2020-07-31"
+      },
+      {
+        "gugunNm": "부산광역시 북구",
+        "startSpot": "화명동 188-5(금곡대로 진입 삼거리)",
+        "endSpot": "화명동 295\n(도시화명그린 208동)",
+        "total": "1",
+        "gugunOnlyBike": "-",
+        "gugunWithWalk": "1",
+        "gugunBikeRoad": "-",
+        "checkDate": "2020-07-31"
+      }
+    ],
+    "item5": [
+      {
+        "gugunNm": "부산광역시 금정구",
+        "startSpot": "레미안아파트 106동",
+        "endSpot": "레미안아파트 112동",
+        "total": "0.62",
+        "gugunOnlyBike": "-",
+        "gugunWithWalk": "0.62",
+        "gugunBikeRoad": "-",
+        "checkDate": "2020-07-31"
+      },
+      {
+        "gugunNm": "부산광역시 금정구",
+        "startSpot": "온천장역",
+        "endSpot": " 노포역",
+        "total": "7.6",
+        "gugunOnlyBike": "-",
+        "gugunWithWalk": "7.6",
+        "gugunBikeRoad": "-",
+        "checkDate": "2020-07-31"
+      },
+      {
+        "gugunNm": "부산광역시 금정구",
+        "startSpot": "노포역",
+        "endSpot": "온천장역",
+        "total": "7.6",
+        "gugunOnlyBike": "-",
+        "gugunWithWalk": "7.6",
+        "gugunBikeRoad": "-",
+        "checkDate": "2020-07-31"
+      },
+      {
+        "gugunNm": "부산광역시 금정구",
+        "startSpot": "남산역",
+        "endSpot": "남산시장",
+        "total": "0.7",
+        "gugunOnlyBike": "-",
+        "gugunWithWalk": "0.7",
+        "gugunBikeRoad": "-",
+        "checkDate": "2020-07-31"
+      },
+      {
+        "gugunNm": "부산광역시 금정구",
+        "startSpot": "남산시장",
+        "endSpot": "남산역",
+        "total": "0.3",
+        "gugunOnlyBike": "-",
+        "gugunWithWalk": "0.3",
+        "gugunBikeRoad": "-",
+        "checkDate": "2020-07-31"
+      },
+      {
+        "gugunNm": "부산광역시 금정구",
+        "startSpot": "홍법사",
+        "endSpot": "신천교",
+        "total": "3.3",
+        "gugunOnlyBike": "-",
+        "gugunWithWalk": "3.3",
+        "gugunBikeRoad": "-",
+        "checkDate": "2020-07-31"
+      },
+      {
+        "gugunNm": "부산광역시 금정구",
+        "startSpot": "상현교차로",
+        "endSpot": "기장경계점",
+        "total": "2.3",
+        "gugunOnlyBike": "-",
+        "gugunWithWalk": "2.3",
+        "gugunBikeRoad": "-",
+        "checkDate": "2020-07-31"
+      },
+      {
+        "gugunNm": "부산광역시 금정구",
+        "startSpot": "신천교",
+        "endSpot": "학송정",
+        "total": "1",
+        "gugunOnlyBike": "-",
+        "gugunWithWalk": "1",
+        "gugunBikeRoad": "-",
+        "checkDate": "2020-07-31"
+      },
+      {
+        "gugunNm": "부산광역시 금정구",
+        "startSpot": "학송정",
+        "endSpot": "선동 상현회관",
+        "total": "0.5",
+        "gugunOnlyBike": "-",
+        "gugunWithWalk": "0.5",
+        "gugunBikeRoad": "-",
+        "checkDate": "2020-07-31"
+      },
+      {
+        "gugunNm": "부산광역시 금정구",
+        "startSpot": "노포역",
+        "endSpot": "신천테니스장",
+        "total": "2",
+        "gugunOnlyBike": "-",
+        "gugunWithWalk": "2",
+        "gugunBikeRoad": "-",
+        "checkDate": "2020-07-31"
+      }
+    ],
+    "item6": [
+      {
+        "gugunNm": "부산광역시 동래구",
+        "startSpot": "부산광역시 동래구 온천장로1",
+        "endSpot": "부산광역시 동래구 금강로54",
+        "total": "0.3",
+        "gugunOnlyBike": "0",
+        "gugunWithWalk": "0.3",
+        "gugunBikeRoad": "0",
+        "checkDate": "2020-07-31"
+      },
+      {
+        "gugunNm": "부산광역시 동래구",
+        "startSpot": "부산광역시 동래구 충렬대로157",
+        "endSpot": "부산광역시 동래구 충렬대로85",
+        "total": "0.7",
+        "gugunOnlyBike": "0",
+        "gugunWithWalk": "0.7",
+        "gugunBikeRoad": "0",
+        "checkDate": "2020-07-31"
+      },
+      {
+        "gugunNm": "부산광역시 동래구",
+        "startSpot": "부산광역시 동래구 충렬대로174",
+        "endSpot": "부산광역시 동래구 충렬대로 506",
+        "total": "3.52",
+        "gugunOnlyBike": "0",
+        "gugunWithWalk": "3.52",
+        "gugunBikeRoad": "0",
+        "checkDate": "2020-07-31"
+      },
+      {
+        "gugunNm": "부산광역시 동래구",
+        "startSpot": "부산광역시 동래구 명륜로81",
+        "endSpot": "부산광역시 동래구 명륜로29",
+        "total": "0.57",
+        "gugunOnlyBike": "0",
+        "gugunWithWalk": "0.57",
+        "gugunBikeRoad": "0",
+        "checkDate": "2020-07-31"
+      },
+      {
+        "gugunNm": "부산광역시 동래구",
+        "startSpot": "부산광역시 동래구 반송로353",
+        "endSpot": "부산광역시 동래구 온천천로345",
+        "total": "2.35",
+        "gugunOnlyBike": "0",
+        "gugunWithWalk": "2.35",
+        "gugunBikeRoad": "0",
+        "checkDate": "2020-07-31"
+      },
+      {
+        "gugunNm": "부산광역시 동래구",
+        "startSpot": "수영구 경계",
+        "endSpot": "온천천",
+        "total": "1.28",
+        "gugunOnlyBike": "0",
+        "gugunWithWalk": "1.28",
+        "gugunBikeRoad": "0",
+        "checkDate": "2020-07-31"
+      },
+      {
+        "gugunNm": "부산광역시 동래구",
+        "startSpot": "해운대구 경계",
+        "endSpot": "온천천",
+        "total": "1.1",
+        "gugunOnlyBike": "1.1",
+        "gugunWithWalk": "-",
+        "gugunBikeRoad": "-",
+        "checkDate": "2020-07-31"
+      },
+      {
+        "gugunNm": "부산광역시 동래구",
+        "startSpot": "부산광역시 동래구 삼어로18",
+        "endSpot": "수영강",
+        "total": "0.24",
+        "gugunOnlyBike": "0.24",
+        "gugunWithWalk": "-",
+        "gugunBikeRoad": "-",
+        "checkDate": "2020-07-31"
+      },
+      {
+        "gugunNm": "부산광역시 동래구",
+        "startSpot": "안락교",
+        "endSpot": "수영강",
+        "total": "0.73",
+        "gugunOnlyBike": "0.73",
+        "gugunWithWalk": "-",
+        "gugunBikeRoad": "-",
+        "checkDate": "2020-07-31"
+      },
+      {
+        "gugunNm": "부산광역시 동래구",
+        "startSpot": "부산광역시 동래구 충렬대로96",
+        "endSpot": "부산광역시 동래구 중앙대로1307번길 6",
+        "total": "0.7",
+        "gugunOnlyBike": "0",
+        "gugunWithWalk": "0.7",
+        "gugunBikeRoad": "0",
+        "checkDate": "2020-07-31"
+      }
+    ],
+    "item7": [
+      {
+        "gugunNm": "부산광역시 연제구",
+        "startSpot": "법원북로 16",
+        "endSpot": "법원북로 86",
+        "total": "0.75",
+        "gugunOnlyBike": "-",
+        "gugunWithWalk": "0.75",
+        "gugunBikeRoad": "-",
+        "checkDate": "2020-08-31"
+      },
+      {
+        "gugunNm": "부산광역시 연제구",
+        "startSpot": "법원북로 13",
+        "endSpot": "법원북로 81",
+        "total": "0.75",
+        "gugunOnlyBike": "-",
+        "gugunWithWalk": "0.75",
+        "gugunBikeRoad": "-",
+        "checkDate": "2020-08-31"
+      },
+      {
+        "gugunNm": "부산광역시 연제구",
+        "startSpot": "법원로 31",
+        "endSpot": "법원로 5",
+        "total": "0.4",
+        "gugunOnlyBike": "-",
+        "gugunWithWalk": "0.4",
+        "gugunBikeRoad": "-",
+        "checkDate": "2020-08-31"
+      },
+      {
+        "gugunNm": "부산광역시 연제구",
+        "startSpot": "법원로 42",
+        "endSpot": "법원로 2",
+        "total": "0.4",
+        "gugunOnlyBike": "-",
+        "gugunWithWalk": "0.4",
+        "gugunBikeRoad": "-",
+        "checkDate": "2020-08-31"
+      },
+      {
+        "gugunNm": "부산광역시 연제구",
+        "startSpot": "미남로 1",
+        "endSpot": "미남로 20",
+        "total": "0.2",
+        "gugunOnlyBike": "0.2",
+        "gugunWithWalk": "-",
+        "gugunBikeRoad": "-",
+        "checkDate": "2020-08-31"
+      },
+      {
+        "gugunNm": "부산광역시 연제구",
+        "startSpot": "여고로 74",
+        "endSpot": "여고로 138",
+        "total": "0.69",
+        "gugunOnlyBike": "0.69",
+        "gugunWithWalk": "-",
+        "gugunBikeRoad": "-",
+        "checkDate": "2020-08-31"
+      },
+      {
+        "gugunNm": "부산광역시 연제구",
+        "startSpot": "중앙대로1226번길 30",
+        "endSpot": "연안로 25",
+        "total": "2.92",
+        "gugunOnlyBike": "-",
+        "gugunWithWalk": "2.92",
+        "gugunBikeRoad": "-",
+        "checkDate": "2020-08-31"
+      },
+      {
+        "gugunNm": "부산광역시 연제구",
+        "startSpot": "쌍미천로 62",
+        "endSpot": "쌍미천로 132",
+        "total": "0.66",
+        "gugunOnlyBike": "-",
+        "gugunWithWalk": "0.66",
+        "gugunBikeRoad": "-",
+        "checkDate": "2020-08-31"
+      },
+      {
+        "gugunNm": "부산광역시 연제구",
+        "startSpot": "아시아드대로 8",
+        "endSpot": "아시아드대로 64",
+        "total": "0.57",
+        "gugunOnlyBike": "-",
+        "gugunWithWalk": "0.57",
+        "gugunBikeRoad": "-",
+        "checkDate": "2020-08-31"
+      },
+      {
+        "gugunNm": "부산광역시 연제구",
+        "startSpot": "월드컵대로 6",
+        "endSpot": "월드컵대로 126",
+        "total": "1.25",
+        "gugunOnlyBike": "-",
+        "gugunWithWalk": "1.25",
+        "gugunBikeRoad": "-",
+        "checkDate": "2020-08-31"
+      }
+    ],
+    "item8": [
+      {
+        "gugunNm": "부산광역시 서구",
+        "startSpot": "감천제1교",
+        "endSpot": "남항대교 입구",
+        "total": "1.38",
+        "gugunOnlyBike": "-",
+        "gugunWithWalk": "1.38",
+        "gugunBikeRoad": "-",
+        "checkDate": "2020-07-31"
+      },
+      {
+        "gugunNm": "부산광역시 서구",
+        "startSpot": "인터불고 냉동창고 맞은편",
+        "endSpot": "동양시멘트",
+        "total": "1.56",
+        "gugunOnlyBike": "-",
+        "gugunWithWalk": "1.56",
+        "gugunBikeRoad": "-",
+        "checkDate": "2020-07-31"
+      }
+    ],
+    "item9": [
+      {
+        "gugunNm": "부산광역시 중구",
+        "startSpot": "부산광역시 중구 대교로 116",
+        "endSpot": "부산광역시 중구 충장대로13번길 40",
+        "total": "1.65km",
+        "gugunOnlyBike": "0.66km",
+        "gugunWithWalk": "0.99km",
+        "gugunBikeRoad": "-",
+        "checkDate": "2020-07-31"
+      }
+    ],
+    "item10": [
+      {
+        "gugunNm": "부산광역시 영도구",
+        "startSpot": "영선동3가 189, 남항대교 입구",
+        "endSpot": "동삼동 865-15, 휴덤하리 입구",
+        "total": "7.68",
+        "gugunOnlyBike": "-",
+        "gugunWithWalk": "7.68",
+        "gugunBikeRoad": "-",
+        "checkDate": "2020-07-31"
+      },
+      {
+        "gugunNm": "부산광역시 영도구",
+        "startSpot": "동삼동 865-15, 휴덤하리 입구",
+        "endSpot": "동삼동 1023-1, 태종대 입구",
+        "total": "0.64",
+        "gugunOnlyBike": "0.68",
+        "gugunWithWalk": "-",
+        "gugunBikeRoad": "-",
+        "checkDate": "2020-07-31"
+      }
+    ],
+    "item11": [
+      {
+        "gugunNm": "부산광역시 남구",
+        "startSpot": "전포대로 94(효원이용원)",
+        "endSpot": "전포대로 122-1\n(금융단지부동산)",
+        "total": "0.3",
+        "gugunOnlyBike": "-",
+        "gugunWithWalk": "0.3",
+        "gugunBikeRoad": "-",
+        "checkDate": "2020-07-31"
+      },
+      {
+        "gugunNm": "부산광역시 남구",
+        "startSpot": "수영로 240(대연사거리)",
+        "endSpot": "수영로 364\n(대남교차로)",
+        "total": "1.4",
+        "gugunOnlyBike": "-",
+        "gugunWithWalk": "1.4",
+        "gugunBikeRoad": "-",
+        "checkDate": "2020-07-31"
+      },
+      {
+        "gugunNm": "부산광역시 남구",
+        "startSpot": "대연동 49-1(대남교차로)",
+        "endSpot": "진남로 4\n(대연사거리)",
+        "total": "1.3",
+        "gugunOnlyBike": "-",
+        "gugunWithWalk": "1.3",
+        "gugunBikeRoad": "-",
+        "checkDate": "2020-07-31"
+      },
+      {
+        "gugunNm": "부산광역시 남구",
+        "startSpot": "분포로 1(용호지구대)",
+        "endSpot": "용호동 924-6\n(면허시험장교차로)",
+        "total": "0.76",
+        "gugunOnlyBike": "-",
+        "gugunWithWalk": "0.76",
+        "gugunBikeRoad": "-",
+        "checkDate": "2020-07-31"
+      },
+      {
+        "gugunNm": "부산광역시 남구",
+        "startSpot": "분포로 111(LG메트로 235동 북서끝)",
+        "endSpot": "신선로 566-2\n(용호1동 주민센터분소)",
+        "total": "0.41",
+        "gugunOnlyBike": "-",
+        "gugunWithWalk": "0.41",
+        "gugunBikeRoad": "-",
+        "checkDate": "2020-07-31"
+      },
+      {
+        "gugunNm": "부산광역시 남구",
+        "startSpot": "분포로 111(LG메트로 127동 남서끝)",
+        "endSpot": "분포로 101\n(용호만유람선터미널 북서끝)",
+        "total": "0.45",
+        "gugunOnlyBike": "-",
+        "gugunWithWalk": "0.45",
+        "gugunBikeRoad": "-",
+        "checkDate": "2020-07-31"
+      },
+      {
+        "gugunNm": "부산광역시 남구",
+        "startSpot": "분포로 111(LG메트로 130동 북서끝)",
+        "endSpot": "분포로 111\n(LG메트로 123동 동남끝)",
+        "total": "0.14",
+        "gugunOnlyBike": "-",
+        "gugunWithWalk": "0.14",
+        "gugunBikeRoad": "-",
+        "checkDate": "2020-07-31"
+      },
+      {
+        "gugunNm": "부산광역시 남구",
+        "startSpot": "분포로 111(LG메트로 131동 남서끝)",
+        "endSpot": "분포로 111\n(LG메트로 133동 남서끝)",
+        "total": "0.12",
+        "gugunOnlyBike": "-",
+        "gugunWithWalk": "0.12",
+        "gugunBikeRoad": "-",
+        "checkDate": "2020-07-31"
+      },
+      {
+        "gugunNm": "부산광역시 남구",
+        "startSpot": "분포로 111(면허시험장교차로)",
+        "endSpot": "대연동 55-19\n(경성대부경대역3번 출구)",
+        "total": "1.2",
+        "gugunOnlyBike": "1.2",
+        "gugunWithWalk": "-",
+        "gugunBikeRoad": "-",
+        "checkDate": "2020-07-31"
+      },
+      {
+        "gugunNm": "부산광역시 남구",
+        "startSpot": "분포로 111(면허시험장교차로)",
+        "endSpot": "분포로 111\n(LG메트로 234동 북서끝)",
+        "total": "0.4",
+        "gugunOnlyBike": "-",
+        "gugunWithWalk": "0.4",
+        "gugunBikeRoad": "-",
+        "checkDate": "2020-07-31"
+      }
+    ],
+    "item12": [
+      {
+        "gugunNm": "부산광역시 수영구",
+        "startSpot": "망미동 1066-1",
+        "endSpot": "망미동 1090",
+        "total": "1.7",
+        "gugunOnlyBike": "0",
+        "gugunWithWalk": "1.7",
+        "gugunBikeRoad": "-",
+        "checkDate": "2020-08-21"
+      },
+      {
+        "gugunNm": "부산광역시 수영구",
+        "startSpot": "민락동 110-27",
+        "endSpot": "망미동 1066-1",
+        "total": "2.7",
+        "gugunOnlyBike": "2.7",
+        "gugunWithWalk": "0",
+        "gugunBikeRoad": "-",
+        "checkDate": "2020-08-21"
+      },
+      {
+        "gugunNm": "부산광역시 수영구",
+        "startSpot": "민락동 181-84",
+        "endSpot": "민락동 110-27",
+        "total": "0.94",
+        "gugunOnlyBike": "0",
+        "gugunWithWalk": "0.94",
+        "gugunBikeRoad": "-",
+        "checkDate": "2020-08-21"
+      },
+      {
+        "gugunNm": "부산광역시 수영구",
+        "startSpot": "남천동 559",
+        "endSpot": "남천동 545-2",
+        "total": "0.5",
+        "gugunOnlyBike": "0",
+        "gugunWithWalk": "0.5",
+        "gugunBikeRoad": "-",
+        "checkDate": "2020-08-21"
+      },
+      {
+        "gugunNm": "부산광역시 수영구",
+        "startSpot": "광안대교",
+        "endSpot": "남천동 561",
+        "total": "1",
+        "gugunOnlyBike": "0",
+        "gugunWithWalk": "1",
+        "gugunBikeRoad": "-",
+        "checkDate": "2020-08-21"
+      },
+      {
+        "gugunNm": "부산광역시 수영구",
+        "startSpot": "남천동 561",
+        "endSpot": "남천동 148-2",
+        "total": "1.1",
+        "gugunOnlyBike": "0",
+        "gugunWithWalk": "1.1",
+        "gugunBikeRoad": "-",
+        "checkDate": "2020-08-21"
+      },
+      {
+        "gugunNm": "부산광역시 수영구",
+        "startSpot": "남천동 148-2",
+        "endSpot": "민락동 181-84",
+        "total": "1.5",
+        "gugunOnlyBike": "0",
+        "gugunWithWalk": "1.5",
+        "gugunBikeRoad": "-",
+        "checkDate": "2020-08-21"
+      }
+    ],
+    "item13": [
+      {
+        "gugunNm": "부산광역시 해운대구",
+        "startSpot": "우동 639-10",
+        "endSpot": "우동 602-6",
+        "total": "0.4",
+        "gugunOnlyBike": "-",
+        "gugunWithWalk": "0.4",
+        "gugunBikeRoad": "-",
+        "checkDate": "2020-08-31"
+      },
+      {
+        "gugunNm": "부산광역시 해운대구",
+        "startSpot": "우동 1089-1",
+        "endSpot": "우동 565-7",
+        "total": "1.86",
+        "gugunOnlyBike": "-",
+        "gugunWithWalk": "1.86",
+        "gugunBikeRoad": "-",
+        "checkDate": "2020-08-31"
+      },
+      {
+        "gugunNm": "부산광역시 해운대구",
+        "startSpot": "반송동 산 15-2",
+        "endSpot": "석대동 산 58-7",
+        "total": "2.5",
+        "gugunOnlyBike": "-",
+        "gugunWithWalk": "2.5",
+        "gugunBikeRoad": "-",
+        "checkDate": "2020-08-31"
+      },
+      {
+        "gugunNm": "부산광역시 해운대구",
+        "startSpot": "반송동 756-255",
+        "endSpot": "반여동 1502-49",
+        "total": "2.4",
+        "gugunOnlyBike": "-",
+        "gugunWithWalk": "2.4",
+        "gugunBikeRoad": "-",
+        "checkDate": "2020-08-31"
+      },
+      {
+        "gugunNm": "부산광역시 해운대구",
+        "startSpot": "반여동 1502-23",
+        "endSpot": "반여동 1473-15",
+        "total": "1.87",
+        "gugunOnlyBike": "1.87",
+        "gugunWithWalk": "-",
+        "gugunBikeRoad": "-",
+        "checkDate": "2020-08-31"
+      },
+      {
+        "gugunNm": "부산광역시 해운대구",
+        "startSpot": "석대동 591-6",
+        "endSpot": "반여동 1502-67",
+        "total": "0.83",
+        "gugunOnlyBike": "0.83",
+        "gugunWithWalk": "-",
+        "gugunBikeRoad": "-",
+        "checkDate": "2020-08-31"
+      },
+      {
+        "gugunNm": "부산광역시 해운대구",
+        "startSpot": "반여동 1502-67",
+        "endSpot": "재송동 706-4",
+        "total": "2.88",
+        "gugunOnlyBike": "2.88",
+        "gugunWithWalk": "-",
+        "gugunBikeRoad": "-",
+        "checkDate": "2020-08-31"
+      },
+      {
+        "gugunNm": "부산광역시 해운대구",
+        "startSpot": "반여동 1621",
+        "endSpot": "반여동 1486",
+        "total": "1.2",
+        "gugunOnlyBike": "-",
+        "gugunWithWalk": "1.2",
+        "gugunBikeRoad": "-",
+        "checkDate": "2020-08-31"
+      },
+      {
+        "gugunNm": "부산광역시 해운대구",
+        "startSpot": "재송동 920-17",
+        "endSpot": "우동 1483",
+        "total": "2.3",
+        "gugunOnlyBike": "-",
+        "gugunWithWalk": "2.3",
+        "gugunBikeRoad": "-",
+        "checkDate": "2020-08-31"
+      },
+      {
+        "gugunNm": "부산광역시 해운대구",
+        "startSpot": "재송동 706-4",
+        "endSpot": "우동 1494",
+        "total": "2.41",
+        "gugunOnlyBike": "2.41",
+        "gugunWithWalk": "-",
+        "gugunBikeRoad": "-",
+        "checkDate": "2020-08-31"
+      }
+    ]
+}

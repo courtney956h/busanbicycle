@@ -1,0 +1,86 @@
+.homesec_wrap {
+    .article2 { 
+        .quick { background: #eee; 
+            height: 100px; width: 100%;
+            .row { display: flex; 
+                justify-content: center;
+                p { margin: 30px 15px; 
+                    padding-right: 15px;
+                    font-size: 25px; 
+                    transition: all 0.5s;
+                    border-right: 1px solid #888;
+                    &:hover { color: #0b70b9; }
+                    span { padding: 0 20px;
+                        line-height: 30px;
+                        vertical-align: top; 
+                    } 
+                }
+                p:last-child { border: none; } 
+            } 
+        }
+    }
+
+    .article3 { padding: 100px 0;
+        .row {
+            .rental_guide { text-align: center;
+                h3 { font-size: 35px; }
+                ul { padding: 30px 0;
+                    li { padding: 15px; 
+                        margin: 10px 200px; 
+                        color: #fff;
+                        font-size: 18px;
+                    }
+                    li:nth-child(1) { background: #073151; }
+                    li:nth-child(2) { background: #0b70b9; }
+                    li:nth-child(3) { background: #175758; }
+                    li:nth-child(4) { background: #0f5b35; }
+                }
+            }
+        }
+    }
+
+    .article4 { position: relative;
+        .bg { 
+            &:before { position: absolute;
+            top: 0; left: 0;
+            content: '';
+            height: 100%; width: 100%;
+            background: rgba(0,0,0,0.4);}
+            .bg_text { color: #fff; 
+                text-align: center;
+                position: absolute;
+                top : 50%; left: 50%;
+                transform: translate(-50%, -50%);
+                p { font-size: 20px;
+                    letter-spacing: 2px; } 
+                h2 { font-size: 80px; } 
+            }
+        }
+    }
+    
+    .article5 {
+        .grid_box { display: grid;
+            grid-template-columns: 50% 50%;
+            .grid_item { position: relative;
+                img { width: 100%; }
+                .grid_text { position: absolute;
+                    top: 50%; left: 50%;
+                    transform: translate(-50%, -50%);
+                    text-align: center;
+                    h4 { font-size: 25px; 
+                        padding: 10px; }
+                }
+            }
+            // .grid1 {
+            //     &:before { position: absolute;
+            //         top: 0; left: 0;
+            //         width: 100%; height: 100%;
+            //         content: '';
+            //         background: rgba(100, 149, 237, 0.5); 
+            //     }
+            // }
+        }
+    }
+
+    
+}
